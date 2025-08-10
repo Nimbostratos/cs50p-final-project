@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What programming language is the CS50P course primarily about?",
+    "choices": ["Python", "C", "JavaScript", "Java"],
+    "answer": "Python"
+  },
+  {
+    "question": "Which CS50 problem set introduces Python functions?",
+    "choices": ["Problem Set 1", "Problem Set 3", "Problem Set 5", "Problem Set 7"],
+    "answer": "Problem Set 5"
+  },
+  {
+    "question": "What tool is commonly used in CS50P to test Python functions?",
+    "choices": ["unittest", "pytest", "nose", "doctest"],
+    "answer": "pytest"
+  },
+  {
+    "question": "What symbol is used in Python to start a comment?",
+    "choices": ["//", "#", "/*", "--"],
+    "answer": "#"
+  },
+  {
+    "question": "In Python, what keyword is used to define a function?",
+    "choices": ["function", "def", "func", "define"],
+    "answer": "def"
+  },
+  {
+    "question": "Which CS50P problem set covers file input/output?",
+    "choices": ["Problem Set 2", "Problem Set 4", "Problem Set 6", "Problem Set 8"],
+    "answer": "Problem Set 6"
+  },
+  {
+    "question": "What Python data type is used to store multiple values in an ordered sequence?",
+    "choices": ["dictionary", "tuple", "list", "set"],
+    "answer": "list"
+  },
+  {
+    "question": "In CS50P, which module is used to handle JSON data?",
+    "choices": ["csv", "json", "xml", "pickle"],
+    "answer": "json"
+  },
+  {
+    "question": "How do you execute a Python script from the command line?",
+    "choices": ["python scriptname.py", "run scriptname", "execute scriptname.py", "start scriptname"],
+    "answer": "python scriptname.py"
+  },
+  {
+    "question": "What is the correct way to check if two variables are equal in Python?",
+    "choices": ["=", "==", "===", "!="],
+    "answer": "=="
+  }
+]
