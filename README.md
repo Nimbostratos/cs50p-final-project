@@ -1,5 +1,4 @@
  # CS50p QUIZ
- ## Video Demo:  https://youtu.be/XvgGimX3p98
 ## Description:
   CS50P Trivia Quiz is a command-line Python application designed to test your knowledge about Harvard’s CS50P course. The quiz features 10 multiple-choice questions covering fundamental concepts, tools, and details from CS50P, making it a fun and educational way to review course material.
 
